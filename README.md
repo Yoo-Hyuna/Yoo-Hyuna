@@ -3,7 +3,8 @@
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yha2000)](https://solved.ac/yha2000) -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yha2000)](https://solved.ac/yha2000)
 
-![hyuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yha2000&show_icons=true&theme=react)
+
+![hyuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yha2000&theme=react&show_icons=true)
 
 <!--
 **Yoo-Hyuna/Yoo-Hyuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
